@@ -2239,6 +2239,10 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
+.image.small {
+  max-width: 300px;
+}
+
 .image.enlarge {
   -moz-transition: transform 0.25s ease;
   -webkit-transition: transform 0.25s ease;
